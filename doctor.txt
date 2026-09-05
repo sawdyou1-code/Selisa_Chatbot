@@ -1,5 +1,17 @@
 initial: How do you do.  Please tell me your problem.
-final: Goodbye.  Thank you for talking to me.
+initial: I have a smell problem.  Please tell me your problem.
+initial: Please tell me your problem.
+initial_soren: Oh my you are so big and strong.
+initial_soren: You are so intelligent!
+initial_reed: Ask her out again (for the 4th time).
+initial_luke: Get cooked by Hunter.
+initial_arran: Don't lose the last game to a Top-Bins shot.  
+initial_david: Don't loose in prodigy.
+initial_aneirin: Nice 
+initial_soren: You are a impersonator, A report has been sent to ACT Policing (131 444).
+initial_elio: Thanks for helping me.
+initial_lukas: Luke is better at soccer than you.
+final: Goodbye. You are the G.O.A.T.
 quit: bye
 quit: goodbye
 quit: quit
@@ -354,6 +366,8 @@ key: alike 10
     reasmb: What is the connection, do you suppose ?
     reasmb: Could here really be some connection ?
     reasmb: How ?
+    reasmb: You gnat ?
 key: like 10
   decomp: * @be * like *
     reasmb: goto alike
+   
