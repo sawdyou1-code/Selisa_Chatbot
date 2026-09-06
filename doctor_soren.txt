@@ -1,5 +1,4 @@
-initial: How do you do.  Please tell me your problem.
-initial: I have a smell problem.  Please tell me your problem.
+initial: Hello people I know.  Please tell me your problem.
 initial: Please tell me your problem.
 initial_soren: Oh my you are so big and strong.
 initial_soren: You are so intelligent!
