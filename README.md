@@ -28,9 +28,13 @@ Once inside the project directory, install the required web environment by runni
 * pip install flask
 * pip install flask-socketio
 
+After installing the packages, you can start the application by running: 
+
+* python main.py
+
 ### Running the Chatbot
 
-Launch the application using your main Python file. The backend will start up and automatically launch your web browser to display the chat interface. 
+The backend will start up and automatically launch your web browser to display the chat interface. 
 
 ### How It Works
 
@@ -44,4 +48,4 @@ Contributions are highly encouraged! Please feel free to open an issue or submit
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details. 
 
-Copyright (C) 2026 Selisa_Chatbot
+Copyright (C) 2026 Selisa_Chatbot - Soren Wuth
