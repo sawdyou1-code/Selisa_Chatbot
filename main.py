@@ -97,7 +97,7 @@ def connect(auth):
     welcome = seliza.welcome(name)
     rooms[room]["members"] += 1
     print(f"{name} joined room {room}")
-    send({"name": "Elisa", "message": welcome})
+    send({"name": "Selisa", "message": welcome})
 
 @socketio.on("disconnect")
 def disconnect():
